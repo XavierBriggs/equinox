@@ -1,0 +1,5 @@
+team,away_team,team1_id,team2_id,Win_Prob_Team1,Win_Prob_Team2
+Auburn,North Carolina,1120,1314,0.8327488,0.16725121
+Florida,St. John's,1196,1385,0.9991555,0.0008444641
+Duke,Alabama,1181,1104,0.9989237,0.0010762217
+Tennessee,Purdue,1397,1345,0.7571737,0.24282625

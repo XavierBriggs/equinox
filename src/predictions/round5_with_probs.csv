@@ -1,0 +1,3 @@
+team,away_team,team1_id,team2_id,Win_Prob_Team1,Win_Prob_Team2
+Auburn,Florida,1120,1196,0.99292207,0.007077889
+Duke,Tennessee,1181,1397,0.9370308,0.062969156

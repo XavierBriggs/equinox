@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data (may be too large for git)
+# data/raw/*
+# data/processed/*
+# !data/raw/README.md
+# !data/processed/README.md
+
+# Models and features
+models/*
+!models/README.md
+
+# OS specific
+.DS_Store
+Thumbs.dbfeatures.pkl
